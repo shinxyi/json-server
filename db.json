@@ -70,5 +70,20 @@
         "closeDate": "8/12/2018",
         "statusCode": true,
         "statusName": true
-    }]
+    }],
+    "USD": {
+        "contractName": "Total S.A."
+    },
+    "IRA": {
+        "contractName": "HealthSouth Corporation"
+    },
+    "TDE": {
+        "contractName": "Sorrento Therapeutics, Inc."
+    },
+    "ASD": {
+        "contractName": "Intercept Pharmaceuticals, Inc."
+    },
+    "NKW": {
+        "contractName": "lululemon athletica inc."
+    }
 }
