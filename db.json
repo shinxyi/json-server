@@ -9,7 +9,7 @@
         "cyclesClosesWithin90DaysPercentage": 14
     }, {
         "contractName": "HealthSouth Corporation",
-        "contractCode": "USD",
+        "contractCode": "IRA",
         "openClaimsCount": 32,
         "cyclesPastDuePercentage": 16,
         "cyclesClosesWithin10DaysPercentage": 60,
@@ -17,7 +17,7 @@
         "cyclesClosesWithin90DaysPercentage": 12
     }, {
         "contractName": "Sorrento Therapeutics, Inc.",
-        "contractCode": "USD",
+        "contractCode": "TDE",
         "openClaimsCount": 48,
         "cyclesPastDuePercentage": 27,
         "cyclesClosesWithin10DaysPercentage": 31,
@@ -25,7 +25,7 @@
         "cyclesClosesWithin90DaysPercentage": 20
     }, {
         "contractName": "Intercept Pharmaceuticals, Inc.",
-        "contractCode": "USD",
+        "contractCode": "ASD",
         "openClaimsCount": 16,
         "cyclesPastDuePercentage": 51,
         "cyclesClosesWithin10DaysPercentage": 77,
@@ -33,44 +33,42 @@
         "cyclesClosesWithin90DaysPercentage": 10
     }, {
         "contractName": "lululemon athletica inc.",
-        "contractCode": "USD",
+        "contractCode": "NKW",
         "openClaimsCount": 34,
         "cyclesPastDuePercentage": 30,
         "cyclesClosesWithin10DaysPercentage": 87,
         "cyclesClosesWithin30DaysPercentage": 25,
         "cyclesClosesWithin90DaysPercentage": 4
     }],
-    "cycles": {
-        "USD": [{
-            "contractCode": "USD",
-            "code": "047J0GZ",
-            "name": "BareMinerals",
-            "description": "NuncNislDuis.mp3",
-            "reportDate": "7/10/2018",
-            "billingDate": "8/28/2018",
-            "closeDate": "10/19/2018",
-            "statusCode": false,
-            "statusName": true
-        }, {
-            "contractCode": "USD",
-            "code": "F09Z0ZZ",
-            "name": "SOLU-MEDROL",
-            "description": "EratEros.jpeg",
-            "reportDate": "6/26/2018",
-            "billingDate": "1/22/2018",
-            "closeDate": "8/8/2018",
-            "statusCode": false,
-            "statusName": true
-        }, {
-            "contractCode": "USD",
-            "code": "0QH934Z",
-            "name": "Zanaflex",
-            "description": "Pede.tiff",
-            "reportDate": "2/17/2018",
-            "billingDate": "8/6/2018",
-            "closeDate": "8/12/2018",
-            "statusCode": true,
-            "statusName": true
-        }]
-    }
+    "cycles": [{
+        "contractCode": "USD",
+        "code": "047J0GZ",
+        "name": "BareMinerals",
+        "description": "NuncNislDuis.mp3",
+        "reportDate": "7/10/2018",
+        "billingDate": "8/28/2018",
+        "closeDate": "10/19/2018",
+        "statusCode": false,
+        "statusName": true
+    }, {
+        "contractCode": "USD",
+        "code": "F09Z0ZZ",
+        "name": "SOLU-MEDROL",
+        "description": "EratEros.jpeg",
+        "reportDate": "6/26/2018",
+        "billingDate": "1/22/2018",
+        "closeDate": "8/8/2018",
+        "statusCode": false,
+        "statusName": true
+    }, {
+        "contractCode": "USD",
+        "code": "0QH934Z",
+        "name": "Zanaflex",
+        "description": "Pede.tiff",
+        "reportDate": "2/17/2018",
+        "billingDate": "8/6/2018",
+        "closeDate": "8/12/2018",
+        "statusCode": true,
+        "statusName": true
+    }]
 }
