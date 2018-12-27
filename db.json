@@ -9,7 +9,7 @@
         "cyclesClosesWithin90DaysPercentage": 14
     }, {
         "contractName": "HealthSouth Corporation",
-        "contractCode": "PLN",
+        "contractCode": "USD",
         "openClaimsCount": 32,
         "cyclesPastDuePercentage": 16,
         "cyclesClosesWithin10DaysPercentage": 60,
@@ -17,7 +17,7 @@
         "cyclesClosesWithin90DaysPercentage": 12
     }, {
         "contractName": "Sorrento Therapeutics, Inc.",
-        "contractCode": "TJS",
+        "contractCode": "USD",
         "openClaimsCount": 48,
         "cyclesPastDuePercentage": 27,
         "cyclesClosesWithin10DaysPercentage": 31,
@@ -25,7 +25,7 @@
         "cyclesClosesWithin90DaysPercentage": 20
     }, {
         "contractName": "Intercept Pharmaceuticals, Inc.",
-        "contractCode": "ARS",
+        "contractCode": "USD",
         "openClaimsCount": 16,
         "cyclesPastDuePercentage": 51,
         "cyclesClosesWithin10DaysPercentage": 77,
@@ -33,7 +33,7 @@
         "cyclesClosesWithin90DaysPercentage": 10
     }, {
         "contractName": "lululemon athletica inc.",
-        "contractCode": "IDR",
+        "contractCode": "USD",
         "openClaimsCount": 34,
         "cyclesPastDuePercentage": 30,
         "cyclesClosesWithin10DaysPercentage": 87,
