@@ -42,7 +42,7 @@
     }],
     "cycles": {
         "USD": [{
-            "contractCode": "98132-161",
+            "contractCode": "USD",
             "code": "047J0GZ",
             "name": "BareMinerals",
             "description": "NuncNislDuis.mp3",
@@ -52,7 +52,7 @@
             "statusCode": false,
             "statusName": true
         }, {
-            "contractCode": "52125-515",
+            "contractCode": "USD",
             "code": "F09Z0ZZ",
             "name": "SOLU-MEDROL",
             "description": "EratEros.jpeg",
@@ -62,7 +62,7 @@
             "statusCode": false,
             "statusName": true
         }, {
-            "contractCode": "21695-373",
+            "contractCode": "USD",
             "code": "0QH934Z",
             "name": "Zanaflex",
             "description": "Pede.tiff",
