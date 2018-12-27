@@ -1,0 +1,43 @@
+{
+    "contracts": [{
+        "contractName": "Total S.A.",
+        "contractCode": "USD",
+        "openClaimsCount": 49,
+        "cyclesPastDuePercentage": 20,
+        "gecyclesClosesWithin10DaysPercentageder": 87,
+        "cyclesClosesWithin30DaysPercentage": 31,
+        "cyclesClosesWithin90DaysPercentage": 14
+    }, {
+        "contractName": "HealthSouth Corporation",
+        "contractCode": "PLN",
+        "openClaimsCount": 32,
+        "cyclesPastDuePercentage": 16,
+        "gecyclesClosesWithin10DaysPercentageder": 60,
+        "cyclesClosesWithin30DaysPercentage": 74,
+        "cyclesClosesWithin90DaysPercentage": 12
+    }, {
+        "contractName": "Sorrento Therapeutics, Inc.",
+        "contractCode": "TJS",
+        "openClaimsCount": 48,
+        "cyclesPastDuePercentage": 27,
+        "gecyclesClosesWithin10DaysPercentageder": 31,
+        "cyclesClosesWithin30DaysPercentage": 35,
+        "cyclesClosesWithin90DaysPercentage": 20
+    }, {
+        "contractName": "Intercept Pharmaceuticals, Inc.",
+        "contractCode": "ARS",
+        "openClaimsCount": 16,
+        "cyclesPastDuePercentage": 51,
+        "gecyclesClosesWithin10DaysPercentageder": 77,
+        "cyclesClosesWithin30DaysPercentage": 43,
+        "cyclesClosesWithin90DaysPercentage": 10
+    }, {
+        "contractName": "lululemon athletica inc.",
+        "contractCode": "IDR",
+        "openClaimsCount": 34,
+        "cyclesPastDuePercentage": 30,
+        "gecyclesClosesWithin10DaysPercentageder": 87,
+        "cyclesClosesWithin30DaysPercentage": 25,
+        "cyclesClosesWithin90DaysPercentage": 4
+    }]
+}
